@@ -7,7 +7,7 @@
 - My current interest is in C#, but I enjoy building cross-platform applications in multiple languages.
 - I have projects using Swift, React, JavaScript, HTML, and CSS.
 - I enjoy gaming, so naturally, I built a couple.  
-- Try my snowboarding game: [Sid is Snowboarding](https://sidissnowboarding.netlify.app/)
+- Try my snowboarding game: [Sid is Snowboarding](https://www.isthissid.com/post/snowboarding-game)
 - I welcome challenges and aim to be the best version of myself.
 - There is just so much more I want to offer, but enough about me..
 
