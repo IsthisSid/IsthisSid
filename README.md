@@ -9,7 +9,6 @@
 - I enjoy gaming, so naturally, I built a couple.  
 - Try my snowboarding game: [Sid is Snowboarding](https://www.isthissid.com/post/snowboarding-game)
 - I welcome challenges and aim to be the best version of myself.
-- There is just so much more I want to offer, but enough about me..
 
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
