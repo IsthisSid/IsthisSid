@@ -13,7 +13,7 @@
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### Thanks for checking me out!<br>
+### Thanks for stopping by!<br>
 ![](https://komarev.com/ghpvc/?username=isthissid&color=green)
 
 <!--
