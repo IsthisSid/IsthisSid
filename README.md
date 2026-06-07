@@ -1,9 +1,21 @@
 # Hi👋. This is Sid. :blush: 
 ## I love to learn and learn to love coding.
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=isthissid&show_icons=true)
 ### My Background
- 
-- I have projects using Swift, React, JavaScript, HTML, and CSS:<br><br>
+Curious developer and lifelong learner who loves building things. 
+From AI-powered apps to games and web projects, I'm always exploring new ideas and finding creative ways to bring them to life.
+### Things I Work With
+* C# & .NET
+* .NET MAUI Cross-Platform Apps
+* React, JavaScript & TypeScript
+* REST APIs & System Integrations
+* SQL & Database Troubleshooting
+* Azure Services
+* DevOps & CI/CD Pipelines
+* Retail POS & Ecommerce Systems
+* Full Stack Development
+* Process Improvement & Automation
+<br><br>
+### A Snapshot of Past Coding Adventures
 [![LanguageSS2](https://user-images.githubusercontent.com/72266833/194758197-b9cb7d6f-c5af-409b-939a-4d6a7686ef36.png)](http://ionicabizau.github.io/github-profile-languages/?user=isthissid)
 - I enjoy gaming, so naturally, I built a couple.  
 - Try my snowboarding game: [Sid is Snowboarding](https://www.isthissid.com/post/snowboarding-game)
